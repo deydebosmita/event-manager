@@ -1,0 +1,23 @@
+.card-wrapper{
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline-flex;
+
+}
+
+.event-body{
+    margin: auto;
+    width: 75%;
+}
+
+.button-wrapper{
+    display:flex;
+    justify-content:flex-end;
+    padding-bottom:10px
+}
+
+.filter{
+    padding-left:10px;
+    padding-right:10px
+}
+
